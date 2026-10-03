@@ -1,0 +1,20 @@
+{
+  "short_name": "My App",
+  "name": "My Secure Private App",
+  "icons":[
+    {
+      "src":"https://i.postimg.cc/tCLmk3Bb/devarim.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "display": "standalone"
+}
